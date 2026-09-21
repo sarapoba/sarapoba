@@ -3,3 +3,11 @@
 <div align="center">
 
 # 백엔드 개발자 이후경입니다
+
+실사용자 서비스를 직접 운영하며 장애 대응과 성능 개선을 경험했습니다.
+
+`Java` `Spring Boot` `JPA` `MariaDB` `Vue 3` `Docker` `Kubernetes`
+
+</div>
+
+---
